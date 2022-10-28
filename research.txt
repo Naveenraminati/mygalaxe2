@@ -1,0 +1,16 @@
+hardecoded search
+attact function dynamically to the button object
+event lisener 
+how to import and export using javascript
+
+
+1st
+2nd:proper high quality code with comments complete code?
+3rd:workflow rules testcases
+4th:Solution 
+       1.class
+       2.function object
+       3.java script object.
+5th beautyfull UI
+6th.Good Presentation
+like what we did (like welcome)
